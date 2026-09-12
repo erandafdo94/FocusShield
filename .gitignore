@@ -1,0 +1,16 @@
+# macOS metadata
+.DS_Store
+._*
+
+# Build outputs and caches
+/Build/
+/build/
+DerivedData/
+.build/
+*.xcarchive
+*.xcresult
+*.dSYM/
+
+# Xcode user settings
+xcuserdata/
+*.xcuserstate
